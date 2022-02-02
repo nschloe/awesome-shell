@@ -254,6 +254,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [rng](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
 * [wifi-wand](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
 * [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
+* [tiptop](https://github.com/nschloe/tiptop) - Graphical command-line system monitor
 
 ## Downloading and Serving
 
